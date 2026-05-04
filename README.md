@@ -35,7 +35,7 @@ The goal is to understand:
 ### 🔹 Model Matchup Performance (Heatmap)
 Shows how models perform against each other across pairwise matchups.
 
-![Heatmap](figures/heatmap.png)
+![Heatmap](figures/heat_map.png)
 
 ---
 
