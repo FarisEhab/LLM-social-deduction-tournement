@@ -35,28 +35,28 @@ The goal is to understand:
 ### 🔹 Model Matchup Performance (Heatmap)
 Shows how models perform against each other across pairwise matchups.
 
-![Heatmap](assets/figures/heatmap.png)
+![Heatmap](figures/heatmap.png)
 
 ---
 
 ### 🔹 Win Rate by Model and Role
 Models ranked by performance, highlighting differences between crewmate and impostor roles.
 
-![Role Performance](assets/figures/role_performance.png)
+![Role Performance](figures/role_performance.png)
 
 ---
 
 ### 🔹 Token Usage Behavior
 Relationship between impostor and crewmate communication intensity per game.
 
-![Token Scatter](assets/figures/token_scatter.png)
+![Token Scatter](figures/token_scatter.png)
 
 ---
 
 ### 🔹 Performance vs Persuasion Intensity
 Comparison of win rates across roles with persuasion intensity encoded by color.
 
-![Final Plot](assets/figures/final_plot.png)
+![Final Plot](figures/final_plot.png)
 
 ---
 
