@@ -73,3 +73,16 @@ Comparison of win rates across roles with persuasion intensity encoded by color.
 ---
 
 ## 📂 Project Structure
+LLM-social-deduction-tournement/
+│
+├── README.md
+│
+├── data/
+│
+├── figures/
+│
+├── notebook/
+│   └── (Analysis notebooks)
+│
+└── report/
+    └── (ready .html report)
